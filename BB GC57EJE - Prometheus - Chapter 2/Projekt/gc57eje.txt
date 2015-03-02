@@ -1,0 +1,389 @@
+<h3>Kurzbeschreibung</h3>
+<p>Der zweite Teil einer Geschichte um Verschwörungen und die Bedrohung durch ein tödliches Virus</p>
+<hr/>
+<h3>Short description</h3>
+<p>The second part of a story about conspiracies and a threat of a deadly virus</p>
+<hr/>
+<h3>概略</h3>
+<p>陰謀と致死的なヴィールスの話の第二章</p>
+<hr/>
+
+
+<style>
+table {
+    width:100%;
+}
+table {
+    border-collapse: collapse;
+}
+table, th, td { 
+    border: 1px solid black;
+    background-color: #ffffff;
+}
+</style>
+
+
+
+<img src="http://imgcdn.geocaching.com/cache/b30849ae-cf77-44eb-a328-7ac60d9048fb.jpg"/>
+
+<p>
+    <a href="#german_description"><img src="http://imgcdn.geocaching.com/cache/02f5b9d4-803f-444c-98b1-553a41343d62.png"/></a>
+    <a href="#english_description"><img src="http://imgcdn.geocaching.com/cache/f634717a-0865-4232-862a-06b37c23e523.png"/></a>
+    <a href="#japanese_description"><img src="http://imgcdn.geocaching.com/cache/84f631b8-f6c5-43df-b13b-2e93450ff4fe.png"/></a>
+</p>
+
+<a name="german_description"><h3>Synopse</h3></a>
+<p>Nachdem du dich in <a href="http://coord.info/gc4ctgm">Kapitel 1: Projekt Pandora</a> gegen Mr. Johnson entschieden hast, muss die Welt und auch du nun die Konsequenzen dafür tragen, dass das Gegenmittel nicht in Masse produziert wurde. Mr. Johnson gibt dir aber noch einmal eine Chance.</p>
+
+<h3>Spielhinweise</h3>
+<p>In diesem WherIGo wirst du dich viel bewegen. Die Spielstrecke beträgt etwa fünf Kilometer und das Spiel kann auch gut drei Stunden dauern. Und am Ende landest du etwas ab vom Schuss, was aber nur heißt, dass du andere Caches in einer dir vielleicht noch unbekannten Gegend entdecken kannst :-). Eine UV-Lampe wird tatsächlich benötigt, da der einzige Nicht-UV-Hinweis in dem Spiel heruntergefallen ist. Falls du dir diese Seite runtergeladen hast, um sie offline verfügbar zu haben, solltest du sie an dem Tag, an dem du spielst, nochmal updaten, denn wir nehmen Verbesserungen wirklich ernst und so kann es sein, dass es eine neue Version gibt.</p>
+
+<h3>Minispiel</h3>
+<p>Irgendwann in diesem Spiel hetzt Mr. Johnson aus irgendeinem Grund seine Schergen auf dich und du musst denen ausweichen. Gelingt das nicht, ist das Spiel verloren. Dieses Minispiel funktioniert mit bestimmten Arten von festen und sich bewegenden Zonen. Wir empfehlen daher, diesen Teil des Spiels ausschließlich mit der Karte zu spielen.</p>
+
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#aaaaaa">
+        <th>Bild</th>
+        <th>Zonenform</th>
+        <th>Beschreibung</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/a5f629e4-bf58-4e71-8941-cde3b96292c8.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Umgebende Zone</td>
+        <td>Das ist die Spielfeldbegrenzung. Diese Zone ist am stärksten überwacht und darf auf gar keinen Fall betreten werden. Sie umgrenzt das den Bereich, in dem das Minispiel stattfindet.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/4d33ba4b-955d-4300-b091-a02edba5b4c6.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Krankenhauszone</td>
+        <td>Diese Zone befindet sich etwa einen Kilometer im Osten von da, wo das Minispiel startet. Du musst diese Zone unbeschadet erreichen und natürlich betreten, bevor die Schergen dich erwischen.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/53fa8df4-bc10-4054-84a3-f45be88789dc.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Fünfeckig</td>
+        <td>Das ist ein Helikopter, der dir folgt. Er startet etwa eine Minute nachdem das Minigame beginnt. Falls er dich erreicht, du also innerhalb der fünfeckigen Zone bist, sucht er genauer und wenn er dich findet, hetzt er alle Vans auf dich. Du hast etwa eine Minute, diesen Suchbereich wieder zu verlassen.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/4ec1f3a3-922e-454f-9fde-18c86ce2c4ab.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Rechteckig</td>
+        <td>Dies ist eine Straßensperre bestehend aus schwarzen Vans. Diese Zone darfst du auf keinen Fall betreten.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/27d4a61a-35a5-4c90-ae96-87c32db49939.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Dreieckig</td>
+        <td>Das ist ein patroullierender Agent, der nach dir sucht. Auch diese Zone darf auf keinen Fall betreten werden.</td>
+    </tr>
+    </tbody>
+</table>
+
+<hr/>
+<h3>Die Cartridge</h3>
+
+<p>Die neueste Cartridge kannst du hier runterladen: <a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Prometheus DE - Kapitel 2: Konsequenzen</a></p>
+
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#aaaaaa">
+        <th>Version</th>
+        <th>Veränderungen</th>
+        <th>Datum</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Version 4.1</a></td>
+        <td>Eine statische Zone großzügiger gestaltet, so dass man wahrscheinlicher drin bleibt und nicht aus Versehen rausfällt.</td>
+        <td>28. September 2014</td>
+    </tr>
+    <tr>
+        <td>Version 4.0</td>
+        <td>Hint-Update zu einigen Finals. Zusammenspiel mit bewegten Zonen verbessert: Wenn Fiona stecken bleibt und du ihre Zone nicht mehr betreten kannst, dann speicher das Spiel und starte es neu. JA, das steht im Widerspruch dazu, dass man bei timer-getriggerten Szenen nicht speichern soll.</td>
+        <td>28. September 2014</td>
+    </tr>
+    <tr>
+        <td>Version 3.9</td>
+        <td>Der Helikopter wartet jetzt etwa eine Minute mit der Verfolgung nachdem das Minigame begonnen hat.</td>
+        <td>7. September 2014</td>
+    </tr>
+    <tr>
+        <td>Version 3.8</td>
+        <td>Minigame-Bild erneuert. Eine Audiodatei korrigiert.</td>
+        <td>31. August 2014</td>
+    </tr>
+    <tr>
+        <td>Version 3.7</td>
+        <td>Spielfeldbegrenzung und andere Zonen großzügiger gestaltet, um GPS-Ungenauigkeiten und Straßen-Canyons etwas in Einklang zu bringen. Text in UTF-8! Jä würklich Täxt mit Ümläütß, bis auf den Einf?hrungstext, da funktioniert das nicht.</td>
+        <td>30. August 2014</td>
+    </tr>
+    <tr>
+        <td>Version 3.6</td>
+        <td>Einige Hints verbessert. Helikopter startet ein paar Sekunden später.</td>
+        <td>27. August 2014</td>
+    </tr>
+    <tr>
+        <td>Version 3.5</td>
+        <td>Zusammenspiel mit bewegten Zonen verbessert. Einige statische Zonen verschoben.</td>
+        <td>16. August 2014</td>
+    </tr>
+    <tr>
+        <td>Version 3.4</td>
+        <td>Erstveröffentlichung. Ja, Version 3.4 stimmt wirklich. Nach nur etwa zwanzig Uploads sagte der ferne Compiler endlich nicht mehr "kaputt", sondern "runterladbar". Und nicht wir setzen die Versionsnummer, sondern die WherIGo-Seite. Im Wesentlichen ist es ansonsten eine Eins Punkt Null.</td>
+        <td>10. August 2014</td>
+    </tr>
+    </tbody>
+</table>
+
+<ul>
+    <li>Lass dich von anderen Logs nicht abschrecken. Das Spiel hat mehrere Enden. Du kannst jeden "Final" loggen! :-)</li>
+    <li>In eigener Sache: Das Anfertigen einer WherIGo - Cartridge ist immer eine Geschicklichkeitsprobe beim Fehlerfinden. Falls Du beim Spielen der Cartridge Probleme haben solltest, schreib uns eine Nachricht und wir versuchen diese dann schnellstmöglich zu beheben.</li>
+</ul>
+
+<h3>Kompatibilität</h3>
+<ul>
+    <li>Android: Bislang haben alle getesten Geräte die Cartridge mit der App WhereYouGo abspielen können. Zwar gibt es ein paar Quirks, siehe weiter unten, aber das Spiel lässt sich problemlos in allen Varianten durchspielen.</li>
+    <li>Windows Phone, CE: Wurde noch nicht getestet, aber das Spiel läuft fehlerfrei im Windows-Emulator, welcher ja zum Entwickeln mitbenutzt wurde.</li>
+    <li>OpenWIG: Noch nicht getestet.</li>
+    <li style="color:#aa0000">iOS: Wurde getestet und für nicht spielbar befunden. Die App, die die Cartridge interpretiert, initialisiert nicht alle Variablen vollständig, was zu unbeantwortbaren Dialogen führt. Außerdem scheint es laut Aussage eines Users ständig zu speichern, selbst in Szenen mit sich bewegenden Zonen. Was wir ausdrücklich nicht so programmiert haben. So schnell dürften diese Fehler nicht behoben werden können, da sie nichts mit unserer Cartridge, als viel mehr mit der App zu tun haben. Tut uns Leid.</li>
+    <li style="color:#aa0000">Garmin: Leider nicht spielbar. Zwar könnte man die Sounds alle weglassen und das Spiel in ein reines Text-Adventure verwandeln, aber es bliebe noch das Problem, dass Tasks anklickbar sind und die Cartridge noch andere Eigenschaften hat, die sie inkompatibel zu Garmingeräten macht. Tut uns Leid.</li>
+    <li></li>
+    <li></li>
+</ul>
+
+
+<h3>Work-arounds und Quirks</h3>
+<p>Es gibt ein paar technische Probleme, die wir nicht lösen können. Und es gibt auch ein paar Design-Entscheidungen. Aber wir haben hier ein paar Work-arounds und Tipps:</p>
+<ul>
+    <li>Einige Zonen bewegen sich und wenn diese stecken bleiben, ohne dass sie es sollten (abgesehen vom Hubschrauber), und dass dadurch das Spiel nicht weitergeht, betritt diese Zonen einfach nochmal und verlass sie dann wieder, oder umgedreht. Das Spiel sollte sich dann wieder gefangen haben.</li>
+    <li>Das gilt auch für Szenen, die innerhalb einer Zone ablaufen. Diese Zone einfach wieder verlassen und dann noch einmal betreten.</li>
+    <li>Das Spiel sollte am besten in einem Stück durchgespielt werden. Es während kontinuierlich laufenden Szenen zu speichern und später wieder aufzunehmen kann zu einem Absturz führen. Wir sind da noch nicht ganz hintergestiegen.</li>
+    <li>Wenn Fiona stecken bleibt und du ihre Zone nicht mehr betreten kannst, dann speicher das Spiel und starte es neu. JA, das steht im Widerspruch zum vorhergehenden Punkt :-).</li>
+    <li>Tipp bitte nicht zu schnell von Dialog zu Dialog, denn das Spiel braucht hin und wieder Zeit, um alles abzuarbeiten.</li>
+    <li>Das Spiel speichert automatisch und macht es unmöglich, Entscheidungen zu revidieren. Da jeder Weg zu einem Ende führt, musst du das Spiel eben mehrmals durchspielen. Musst du uns nicht mögen für :-) ...</li>
+    <li></li>
+</ul>
+
+<p>Viel Spaß beim Spielen des zweiten Kapitels!</p>
+
+<hr/>
+
+<a name="english_description"><h3>Synopsis</h3></a>
+<p>The English version will follow soon.</p>
+<p>After you have decided in <a href="http://coord.info/gc4ctgm">Chapter 1: Project Pandora</a> to work against Mr. Johnson, the world and you have to bear the consequences for the antidote not having been mass-produced. But Mr. Johnson wants to give you a second chance.</p>
+
+<h3>About this game</h3>
+<p>In this WherIGo you will move a lot, covering a distance of about five kilometers and it may take about three hours to solve. You will also end up somewhere far off, but this only means, you can find other caches in an area yet to be charted by you. You will also need a UV light as the only non-UV hint disappeared. If you downloaded this webpage to have it offline, then you should reload it on the day you decide to play the game. We really take improvements seriously so maybe there is a new version.</p>
+
+<h3>Minigame</h3>
+<p>At some point in this game, Mr. Johnson sets his henchmen on you and you have to dodge them. It's game-over, if they catch you. This minigame is realized with certain kind of static and moving zones and so we recommend to play this part only using the map.</p>
+
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#aaaaaa">
+        <th>Image</th>
+        <th>Zone shape</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/a5f629e4-bf58-4e71-8941-cde3b96292c8.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Surrounding</td>
+        <td>This is the playing ground boundary. This zone is under strict survaillance and may not be entered at all.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/4d33ba4b-955d-4300-b091-a02edba5b4c6.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Hospital zone</td>
+        <td>This zone is located about a kilometer east of the minigame's starting point. You have to reach and enter this zone before the henchmen catch you.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/53fa8df4-bc10-4054-84a3-f45be88789dc.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Pentagonal</td>
+        <td>This is a helicopter that follows you. It takes off around one minute after the minigame has started. If it reaches you, i.e. you are inside the pentagonal zone, the chopper crew takes a closer look and if they find you, they set all vans nearby on you. You have approximately a minute to leave this area.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/4ec1f3a3-922e-454f-9fde-18c86ce2c4ab.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Rectangular</td>
+        <td>This is a road block set up by black vans. You may not enter this zone at all.</td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/27d4a61a-35a5-4c90-ae96-87c32db49939.png"/></td>
+        <td style="text-align:center;vertical-align:middle">Triangular</td>
+        <td>This is a patrolling agent, looking out for you. You may not enter this zone at all.</td>
+    </tr>
+    </tbody>
+</table>
+
+<hr/>
+<h3>The cartridge</h3>
+
+You can download the newest cartridge here: <a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Prometheus DE - Kapitel 2: Konsequenzen</a>. This is the German version of the game, the English version will follow as soon as we have time to create it.
+
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#aaaaaa">
+        <th>Version</th>
+        <th>Changes</th>
+        <th>Date</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Version 1.0</td>
+        <td>Initial release</td>
+        <td>TBA</td>
+    </tr>
+    </tbody>
+</table>
+
+<ul>
+    <li>Don't get deterred by the logs. The game has multiple endings. You may log any "final"! :-)</li>
+    <li>On Our Own Behalf: Making a WherIGo cartridge is a difficult process. Especially finding bugs. If any problems occur to you while playing, please write us a message and we will try to fix this as soon as possible - if possible.</li>
+</ul>
+
+<h3>Compatibility</h3>
+<ul>
+    <li>Android: The cartridge worked on all tested devices with the WhereYouGo App. There are some quirks, see below, but the game can be finished in all variants without any problems.</li>
+    <li>Windows Phone, CE: Untested yet. But this game ran in the Windows emulator without errors. It was part of the development process.</li>
+    <li style="color:#aa0000">iOS: This has been tested and found unplayable. The app, that interprets the cartridge does not initialize all variables completely, which leads to unanswerable dialogs. Furthermore a user logged that the app keeps saving the game even when a zone is moving, which we explicitly did not program that way. We doubt that these problems will be solved soon, since they have nothing to do with our cartridge but more with the app. We are very sorry!</li>
+    <li style="color:#aa0000">Garmin: Unfortunately the game does not run on Garmin devices. We could leave all audio aside, rendering this game a pure text adventure, but there are other problems as well like clickable tasks and other features that make this cartridge incompatible. If we buy a Garmin device, then maybe, we recode this game. Sorry until then.</li>
+    <li></li>
+    <li></li>
+</ul>
+
+<h3>Work-arounds and quirks</h3>
+<p>There are some technical issues, we cannot solve, as well as some design decisions. But here are some work-arounds and hints:</p>
+<ul>
+    <li>Some zones move and if they got stuck, although they should not (except for the helicopter), and because of that the game does not go on, enter these zones and leave them again, or vice versa. The game should go on again.</li>
+    <li>The same counts for scenes that happen inside a zone. If the scene got stuck, leave and re-enter the zone again.</li>
+    <li>The game is best played without interruption. Saving and reloading it during scenes that run continuously may lead to a crash. We haven't understood the mechanics behind it yet.</li>
+    <li>Please do not touch too quickly from dialog to dialog. The game needs its time to process everything.</li>
+    <li>The game saves automatically and makes it impossible to undo decisions. Since each and every way leads to an end, you have to complete the game more than once. We do not require to be liked for that :-) ...</li>
+    <li></li>
+</ul>
+
+<p>Have fun with the second chapter!</p>
+
+<hr/>
+
+<a name="japanese_description"><h3>詳細</h3></a>
+<p>日本語版製作中。少々お待ちください。</p>
+<p><a href="http://coord.info/gc4ctgm">一章：プロジェクト・パンドラ</a>でミスター・ジョンソンに反して働くことを決めた後、ヴィールスの解毒剤が大量生産されず為、世界は、あなたも、結果の責任をとるべきである。それにもかかわらず、ミスター・ジョンソンがあなたに第二のチャンスをあげたがる。</p>
+<p>このWherIGoは運動っぽいです。歩いて行く距離は５キロぐらいで、解決できるまでの時間は３時間ぐらいです。</p>
+
+<h3>ミニゲーム</h3>
+<p></p>
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#aaaaaa">
+        <th>画像</th>
+        <th>ゾーンの形</th>
+        <th>説明</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/a5f629e4-bf58-4e71-8941-cde3b96292c8.png"/></td>
+        <td style="text-align:center;vertical-align:middle">周囲</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/4d33ba4b-955d-4300-b091-a02edba5b4c6.png"/></td>
+        <td style="text-align:center;vertical-align:middle">病院</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/53fa8df4-bc10-4054-84a3-f45be88789dc.png"/></td>
+        <td style="text-align:center;vertical-align:middle">五角</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/4ec1f3a3-922e-454f-9fde-18c86ce2c4ab.png"/></td>
+        <td style="text-align:center;vertical-align:middle">矩形</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="http://imgcdn.geocaching.com/cache/large/27d4a61a-35a5-4c90-ae96-87c32db49939.png"/></td>
+        <td style="text-align:center;vertical-align:middle">三角</td>
+        <td></td>
+    </tr>
+    </tbody>
+</table>
+
+<hr/>
+<h3>カートリッジ</h3>
+
+カートリッジをここからダウンロードしてください: <a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Prometheus DE - Kapitel 2: Konsequenzen</a>. ドイツ語版です。日本語版のカートリッジをしばらくお待ちください。
+
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#aaaaaa">
+        <th>バージョン</th>
+        <th>改変</th>
+        <th>年月日</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>バージョン ~</td>
+        <td>製品候補版</td>
+        <td>英語版の後</td>
+    </tr>
+    </tbody>
+</table>
+
+<ul>
+    <li>他人のログで騙されないでください。この話は多重の終わりがあるから。どんなファイナルでもログができます(*^_^*)/。</li>
+    <li>WherIGoのカートリッジを作るのは難し技です。特にバグを見つけること。もし、問題発生したら、私たちにメッセージを書いてください。できるだけ早く直します。</li>
+</ul>
+
+<p>第二章を楽しんでください！</p>
+
+<hr/>
+
+<h3>Hall of Fame</h3>
+<table border="1" style="width:100%">
+    <thead>
+    <tr style="background-color:#ffcc66">
+        <th/>
+        <th>Mitarbeiter/Employees</th>
+        <th>Trauergäste/Mourners</th>
+        <th>Helden/Heroes</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>1 - FTF</td>
+        <td>Tltl</td>
+        <td>Rattchen &amp; maddin_bln</td>
+        <td>Rattchen &amp; maddin_bln</td>
+    </tr>
+    <tr>
+        <td>2 - STF</td>
+        <td>reax1001, ClaiRob</td>
+        <td>Tltl</td>
+        <td>???</td>
+    </tr>
+    <tr>
+        <td>3 - TTF</td>
+        <td>Tacimedes, Geohoppler</td>
+        <td>LubiLaura</td>
+        <td>???</td>
+    </tr>
+    </tbody>
+</table>
+
+<hr/>
+
+<a href="http://info.flagcounter.com/VjlI"><img src="http://s11.flagcounter.com/countxl/VjlI/bg_FFFFFF/txt_000000/border_DD3333/columns_8/maxflags_250/viewers_0/labels_0/pageviews_1/flags_1/" alt="Flag Counter" border="0"></a>
+
+
+
+
+Helden, Mitarbeiter: Augenhöhe, ein bisschen in die Büsche müsst ihr gehen, aber ihr müsst nichts zertrampeln.
+Trauergäste: Bitte verhaltet Euch dem Ort angemessen. Gedenkt im Sitzen. Buschwerk muss gar nicht betreten werden.
+Ostereier: Da diese bisher kaum einer entdeckt hat, sei an dieser Stelle erwähnt, dass dieses Spiel drei zusätzliche Ostereier hat.
+Heroes, Employees: Eye level, enter the shrubs but no need to trample them down.
+Mourners: Please behave properly, paying some respect to the location. Mourn seated. No need to enter any shrubbery at all.
+Eastereggs: So far almost nobody found them, so let us mention here, there are three eastereggs to be found in this game.

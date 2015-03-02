@@ -1,0 +1,30 @@
+GC57EJE Achievement 3/3: Huruma Onekana
+coord.info/TB6BQZ0
+
+<p>Dies ist kein Travelbug im eigentlichen Sinn, sondern das dritte Achievement von insgesamt drei, das man im Spiel <a href="http://coord.info/gc57eje">Prometheus Kapitel 2: Konsequenzen</a> erreichen kann.</p>
+<hr/>
+
+<p>This is no normal travel bug, but the third of three achievements in the game <a href="http://coord.info/gc57eje">Prometheus Chapter 2: Consequences</a>.</p>
+<hr/>
+
+<p>これは普通の旅バグではなく、<a href="http://coord.info/gc57eje">プロメテウス二章:結果責任</a>というゲームの三つの手柄の三番目です。</p>
+
+<p>
+    <a href="#german_description"><img src="http://imgcdn.geocaching.com/cache/02f5b9d4-803f-444c-98b1-553a41343d62.png"/></a>
+    <a href="#english_description"><img src="http://imgcdn.geocaching.com/cache/f634717a-0865-4232-862a-06b37c23e523.png"/></a>
+    <a href="#japanese_description"><img src="http://imgcdn.geocaching.com/cache/84f631b8-f6c5-43df-b13b-2e93450ff4fe.png"/></a>
+</p>
+
+<a name="german_description"><h3>Huruma Onekana, Patient Null</h3></a>
+<p>Dir ist nun der vollständige Name von Patient Null bekannt: Huruma Onekana. Sie war eine Journalistin, die sich auf der Spur nach dem Pandora-Virus-Skandal der Prometheus Corporation nach Afrika begab. Sie bezahlte ihren Einsatz mit ihrem Leben.</p>
+<hr/>
+
+<a name="english_description"><h3>Huruma Onekana, patient zero</h3></a>
+<p>You now know the full name of patient zero: Huruma Onekana. She was a journalist tracing the Pandora virus scandal caused by the Prometheus Corporation to Africa and paid her commitment with her life.</p>
+<hr/>
+
+<a name="japanese_description"><h3>ホゥルマ・オネカナ、発端者</h3></a>
+<p>発端者の名字も名前も知りました。ホゥルマ・オネカナ。彼女は記者であり、プロメテウス・コーポレーションが齎したパンドラ・ヴィールスのスキャンダルをアフリカまで調べました。この仕事に死の代償を払いました。</p>
+<hr/>
+
+<a href="http://info.flagcounter.com/19oG"><img src="http://s06.flagcounter.com/countxl/19oG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_1/flags_0/" alt="Flag Counter" border="0"></a>
