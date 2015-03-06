@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MusicSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Garmin New Contact Beep</Title>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>330</Frequency>
+    <Duration>100</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>780</Frequency>
+    <Duration>100</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>0</Frequency>
+    <Duration>100</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>330</Frequency>
+    <Duration>100</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>780</Frequency>
+    <Duration>100</Duration>
+  </Note>
+</MusicSheet>

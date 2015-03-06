@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<MusicSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Garmin Beast Warning Beep</Title>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>660</Frequency>
+    <Duration>60</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>300</Frequency>
+    <Duration>40</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>190</Frequency>
+    <Duration>100</Duration>
+  </Note>
+</MusicSheet>
