@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<MusicSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Garmin Arrow Shoot Beep</Title>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>200</Frequency>
+    <Duration>20</Duration>
+  </Note>
+  <Note>
+    <Tone>OTHER</Tone>
+    <Frequency>750</Frequency>
+    <Duration>30</Duration>
+  </Note>
+</MusicSheet>

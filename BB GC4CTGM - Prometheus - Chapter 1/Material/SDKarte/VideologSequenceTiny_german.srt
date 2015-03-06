@@ -1,0 +1,380 @@
+﻿1
+00:00:19,328 --> 00:00:22,480
+Hallo, das sind die Aufzeichnungen
+von John Greenwitch
+
+2
+00:00:22,585 --> 00:00:27,613
+Ich arbeite für das Projekt Pandora als
+Biologe an der Prometheus Corporation
+
+3
+00:00:27,727 --> 00:00:33,238
+Ähm... und ich... kann's immernoch
+nicht fassen, hier zu sein
+
+4
+00:00:33,793 --> 00:00:37,221
+Huh! Ich meine nicht das
+Gehalt, ich meine...
+
+5
+00:00:37,247 --> 00:00:40,947
+die Arbeit an einem echten
+Priorität-Zwei-Projekt
+
+6
+00:00:40,947 --> 00:00:44,011
+Die Ausstattung ist unglaublich,
+die Möglichkeiten, die die...
+
+7
+00:00:44,451 --> 00:00:48,779
+DAS ist Wissenschaft auf höchstem Niveau
+
+8
+00:00:49,034 --> 00:00:52,434
+Gott bin ich froh, hier zu sein
+Huh!
+
+9
+00:00:53,000 --> 00:00:54,804
+Tag 21
+
+10
+00:00:54,871 --> 00:00:57,400
+Dieses Virus ist immernoch
+ein Rätsel für uns alle
+
+11
+00:00:57,400 --> 00:00:59,570
+Es mutiert so schnell es ist so ansteckend,
+
+12
+00:00:59,570 --> 00:01:02,453
+wie sollen wir denn jemals schaffen,
+ein Gegenmittel zu entwickeln?
+
+13
+00:01:02,453 --> 00:01:06,788
+Ganz zu schweigen davon, es noch
+für alle zu synthetisieren
+
+14
+00:01:06,912 --> 00:01:09,902
+Die Geschäftsführung war natürlich
+nicht sehr erfreut darüber aber
+
+15
+00:01:10,098 --> 00:01:13,315
+trotz sinkender Umsätze wurden wir
+auf Priorität Eins hochgestuft
+
+16
+00:01:13,315 --> 00:01:15,564
+Es gibt jetzt mehr Gelder
+für dieses Projekt
+
+17
+00:01:15,564 --> 00:01:18,409
+Ich hoffe nur, das hilft uns etwas
+
+18
+00:01:18,548 --> 00:01:20,347
+Tag 47
+
+19
+00:01:20,347 --> 00:01:22,595
+Wir sind dem Gegenmittel
+etwas näher gekommen
+
+20
+00:01:22,595 --> 00:01:24,734
+aber es ist noch ein langer Weg vor uns
+
+21
+00:01:24,793 --> 00:01:26,687
+Es zeigt sich, dass das Virus mutiert
+
+22
+00:01:26,688 --> 00:01:28,899
+Wieder und wieder seine DNA-Struktur ändert
+
+23
+00:01:29,602 --> 00:01:30,620
+Und das Gegenmittel?
+
+24
+00:01:30,620 --> 00:01:34,189
+Das Gegenmittel muss exakt auf diese
+DNA-Struktur angepasst sein
+
+25
+00:01:34,190 --> 00:01:37,705
+Das bedeutet, wir werden
+es niemals schaffen,
+
+26
+00:01:37,706 --> 00:01:40,937
+ein Gegenmittel lange Zeit
+im Voraus zu produzieren
+
+27
+00:01:41,087 --> 00:01:43,822
+Wir haben noch einen langen Weg vor uns
+
+28
+00:01:44,219 --> 00:01:45,934
+Tag 84
+
+29
+00:01:46,227 --> 00:01:48,128
+Wir sind einen großen Schritt
+weiter gekommen
+
+30
+00:01:48,128 --> 00:01:50,476
+Anderson hat das Gegenmittel perfektioniert
+
+31
+00:01:50,476 --> 00:01:53,049
+Ich glaube mit der richtigen DNA-Codierung
+
+32
+00:01:53,049 --> 00:01:55,572
+können wir es schaffen,
+das Virus aufzuhalten
+
+33
+00:01:55,572 --> 00:01:59,160
+Die Führungsetage war beeindruckt
+aber nicht beeindruckt genug
+
+34
+00:01:59,327 --> 00:02:00,692
+Man hat ihn versetzt
+
+35
+00:02:00,692 --> 00:02:02,450
+Kein Geld für Forschung heißt es
+
+36
+00:02:02,450 --> 00:02:07,284
+Und seit wann bitte geht einem
+Priorität-Eins-Projekt das Geld aus?
+
+37
+00:02:08,238 --> 00:02:09,980
+Tag 98
+
+38
+00:02:10,348 --> 00:02:12,542
+Das Arbeitsklima ist angespannt
+
+39
+00:02:13,317 --> 00:02:16,494
+McRich hat einfach gekündigt
+ohne ein weiteres Wort
+
+40
+00:02:16,494 --> 00:02:20,317
+Und Anderson? Spurlos verschwunden
+
+41
+00:02:20,426 --> 00:02:21,758
+Keiner weiß etwas
+
+42
+00:02:21,758 --> 00:02:24,491
+Gut, ich könnte mir vorstellen,
+nach dem Ärger den er verursacht hat
+
+43
+00:02:24,491 --> 00:02:28,788
+ist er... gekündigt worden
+Aber warum weiß denn niemand etwas?
+
+44
+00:02:28,788 --> 00:02:32,239
+Scheint, als wär ich bald der Einzige, der
+noch am Projekt Pandora arbeitet
+
+45
+00:02:32,878 --> 00:02:35,081
+Tag 103
+
+46
+00:02:35,081 --> 00:02:36,876
+Heute bekam ich einen anonymen Brief
+
+47
+00:02:36,876 --> 00:02:38,846
+Darin war nur eine
+Mikro-SD-Karte enthalten
+
+48
+00:02:38,846 --> 00:02:39,902
+Die Daten verschlüsselt
+
+49
+00:02:39,902 --> 00:02:43,053
+Ich glaube, sie sind... aus dem... Labor
+
+50
+00:02:43,053 --> 00:02:45,971
+Irgendjemand hat mir die Unterlagen
+von Projekt Pandora zugespielt
+
+51
+00:02:45,971 --> 00:02:50,445
+McRich vielleicht? Was, wenn man ihn
+zum Schweigen bringen will?
+
+52
+00:02:50,445 --> 00:02:54,430
+Mag sein, dass ich paranoid werde,
+aber es ist schon
+
+53
+00:02:54,430 --> 00:02:57,223
+ein komischer Zufall, dass...
+dass Anderson ausgerechnet jetzt
+
+54
+00:02:57,223 --> 00:03:01,863
+diesen... hmm... Unfall hatte
+
+55
+00:03:01,863 --> 00:03:03,645
+Ich muss aufpassen, wem ich vertraue
+
+56
+00:03:05,384 --> 00:03:07,452
+Tag 116
+
+57
+00:03:08,079 --> 00:03:09,787
+Abteilung Sieben wurde geschlossen
+
+58
+00:03:09,787 --> 00:03:10,990
+Geldermangel heißt es
+
+59
+00:03:10,990 --> 00:03:14,517
+Projekt Pandora?
+Projekt Pandora eingestellt
+
+60
+00:03:14,517 --> 00:03:15,432
+für immer
+
+61
+00:03:15,432 --> 00:03:17,526
+sämtliche Aufzeichnungen gelöscht
+
+62
+00:03:17,526 --> 00:03:22,755
+aber warum vernichtet man alle Unterlagen,
+wenn man ein Projekt stilllegt?
+
+63
+00:03:22,755 --> 00:03:25,092
+Man hat mich versetzt
+
+64
+00:03:25,092 --> 00:03:27,226
+Priorität Vier
+
+65
+00:03:27,226 --> 00:03:30,505
+Tja und die Frage für heute lautet:
+
+66
+00:03:30,505 --> 00:03:36,099
+Was läuft falsch, wenn ein Virologe
+plötzlich an Heuschnupfen forschen muss?
+
+67
+00:03:36,099 --> 00:03:38,726
+Finden wir es heraus
+
+68
+00:03:39,324 --> 00:03:41,860
+Tag 120
+
+69
+00:03:42,590 --> 00:03:45,305
+Meine Anfragen an die Führungsetage
+erregen Aufmerksamkeit
+
+70
+00:03:45,305 --> 00:03:49,111
+Gerade eben auf dem Flur bat mich
+Wilhelmsen höchstpersönlich
+
+71
+00:03:49,111 --> 00:03:51,886
+mit dem Herumgeschnüffel aufzuhören
+
+72
+00:03:51,886 --> 00:03:55,609
+Er meinte, er könne nicht mehr
+für meine Sicherheit garantieren
+
+73
+00:03:55,609 --> 00:03:57,824
+Was auch immer das genau bedeuten soll?
+
+74
+00:03:58,519 --> 00:04:00,573
+Finden wir es heraus
+
+75
+00:04:00,735 --> 00:04:03,840
+Tag 123
+
+76
+00:04:03,840 --> 00:04:05,850
+Mein letzter hier
+
+77
+00:04:06,199 --> 00:04:10,239
+Fragen stellen ist ziemlich
+unangehm geworden
+
+78
+00:04:10,239 --> 00:04:17,238
+Ich werde... beobachtet...
+Mein Telefon wird überwacht
+
+79
+00:04:17,238 --> 00:04:22,633
+In meine Wohnung...
+In meine Wohnung wurde eingebrochen
+
+80
+00:04:25,171 --> 00:04:29,622
+Ich habe die SD-Karte an einen
+sicheren Ort gebracht und ähm...
+
+81
+00:04:31,368 --> 00:04:34,699
+Vielleicht werde ich paranoid aber ich
+habe das Gefühl, dass genau das
+
+82
+00:04:34,699 --> 00:04:38,468
+der einzige Grund ist, weshalb ich...
+
+83
+00:04:39,425 --> 00:04:43,230
+weshalb mir noch nichts zugestoßen ist
+
+84
+00:04:43,651 --> 00:04:45,667
+Tja wer weiß...
+
+85
+00:04:45,667 --> 00:04:48,766
+Das ist alles

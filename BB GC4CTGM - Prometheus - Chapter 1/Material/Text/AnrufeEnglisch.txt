@@ -1,0 +1,89 @@
+Okay, ich hab soweit alles mal übersetzt. Kannst natürlich gern mal drauf schauen.
+Ich würd dann versuchen, das demnächst mal dann einzusprechen.
+
+	
+Anruf in Public zone:
+"Hello are you the Troubleshooter? Thank God!
+My name is John Greenwitch. We don't have much time.
+I'm near you right now. Stay unobtrusive and don't look into my direction!
+You need to help me. It is a matter of more than you might imagine.
+Do you know the Prometheus Coorporation? One of the world's biggest bio companies.
+Until recently I was an employee in the research department.
+We were doing research on the most dangerous viral strains in the world.
+Dengue fever Hanta, Ebola... what ever you can imagine!
+A while ago "Project Pandora" was commencing. An antidote for a yet unknown virus. A virus which is mutating quickly, being highly contagious... and made by ourselves.
+Soon they were putting pressure onto us. "It's urgent!", they said. But... do you understand? Why is the procution of an antidote urgent if you don't want to use it?
+I must go. They are tracing back the phone call. I... I send you the coordinates. My records are hidden there... just in case... anything should happen to me.
+You must find them before THEY do so. Send them to me. It is urgent! Hurry!
+The life... the life of all of us depends on you! God bless you!"
+		
+		
+3. Senden der auf der SD Karte befindlichen Daten an Informanten (Code eintippen)
+Menü öffnen: 
+"So, did you find the data? Enter the file name and upload them. Hurry!"
+
+Wenn Richtig: 
+"Very good, very good! These are the research data. We may work with them. I still need to decrypt them but I believe I can make out the details about their plan to use the virus... and perhaps even making an antidote.
+Trust me, we can make it! I call you once I have news!"
+
+Wenn Falsch: 
+"No, no! These are not the correct data. You are looking for a memory card. Keep searching!"
+		
+4. Anruf von Mr. Johnson von der Zeus Inc. 
+"Greetings! Please listen to me carefully! My name is Johnson. You don't know me. But we have a common goal. To stop this virus from spreading.
+I'm working for the Zeus Inc. A competitor to those who want to release the virus tonight. According to my information you are working together with John Greenwitch. He has an antidote. We confirm that.
+But listen! The antidote is useless for you. You hope they have only one source of infection. But believe me. A company like the Prometheus Corporation always has a plan B.
+Even if you were successful neutralising the virus - tomorrow there will be another source for it 10.000 miles away from here.
+You can not win against a multi-billion-dollar corporation like them. We do!
+Bring that scientist to us. With his help we can synthesise the antidote and make it available for everyone.
+Sure some may die. But with your help it won't be everyone!
+It is your decision. But can you live with the burden of failing here?
+We were able to trace back the source of his call. Proceed to that area. As soon as he calls you to give you the antidote - call us!
+We will take care of the rest.
+I hate to say this but the future of mankind is depending on you! Don't forget that!"
+		
+5. Anruf vom Informanten. 
+"Hello are you there?
+Using the research data I created a provisional antidote. It is capable of disabling the virus. But it is higly unstable.
+You need to hurry! Come to the following coordinates. I give you the antidote there."
+		
+6A (Ausliefern) -> Mr. Johnson anrufen und Koordinaten mitteilen 
+"Thank you! I must admit I had my doubts about you. But trust me it was the right thing. You did mankind a great service!
+Let me express my gratitude. We have a small reward prepared for you. Come to these coordinates.
+Oh and there is something else... I really do appreciate your work. Especially now we need decisive personnel.
+I want you in my team. Think about that! Be god with you!"
+
+6B Gegenmittel an sich nehmen (Nicht ausliefern) -> Ausliefern Task deaktivieren!
+Anruf von Greenwitch: 
+"Please, excuse me. I couldn't wait for you. They are chasing me!
+I had to leave back the culture dish with the antidote. Find it. It is reacting strongly on UV light!
+Make a note of the DNA sequence. And then - destroy that god damn virus!
+But you have to hurry! The virus is unstable. If it mutates the antidote is completely useless. You have got only a few minutes!
+		
+Wenn richtig:
+"Yes! Very good. You got it. Now move to the virus and destroy it!"
+Wenn falsch:
+"No, this is the wrong sequence. Search for the Antidote!"
+		
+Virusbehälter finden.
+Anruf: 
+"Quick! The time is running! According to my calculation you have less then 5 minutes until the virus is mutating.
+The antidote is useless then. Keep looking for the culture dish. it is also reacting strongly on UV light."
+
+Timer bei 3 Minuten:
+"You didn't find it yet? I assume it is close to a water source so it can spread quickly. Try searching there!"
+
+Timer abgelaufen:
+"God damn it! You didn't make it! God have mercy on us!
+But... no. No! It is not too late. We might have lost the battle. 
+But we are not beaten yet!
+There is still hope. Come to these coordinates! There you may find a ... dead letter box.
+To prevent the worst we need to find other troubleshooters now.
+I rely on your help with that!"
+		
+Wenn Timer gestoppt:
+"Yehaa! Fantastic! You made it. You did destroy the virus!
+The Prometheus Corporation will not abandon the field that easily but for the time being mankind is safe!
+Come to these coordinates. There you will find a dead letter box.
+To put a stop to the Prometheus' activities we need to find other heros like you.
+I rely on your help with that!"

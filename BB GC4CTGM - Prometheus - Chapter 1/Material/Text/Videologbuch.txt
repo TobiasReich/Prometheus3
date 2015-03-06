@@ -1,0 +1,72 @@
+-> Video-Logbuch über ihn, wie er das Virus entwickelt.
+
+	
+Zusammenfassung:
+Tag 4: Neuer Mitarbeiter bei XYZ
+Tag 21: Mutation erklären, zeigen: XYZ hat Geldsorgen. (Als Backgroundinfo für das WARUM?)
+Tag 47: Gegenmittel gefunden. Erklärt aber Suche nach DNA-Strängen später.
+Tag 84: Erste sonderbare Dinge vorbereiten. Noch einmal das Geld erwähnen.
+Tag 98: Zwei vermisste Mitarbeiter! Kontroverse - zu viele Fragen stellen vorbereiten
+Tag 103: Nachricht im Briefkasten mit der SDKarte (SD vorbereiten), erklären, dass Jenkins tot ist -> es ist ernst!
+Tag 118: Abteilung eingestellt, Forschungsunterlagen weg (bis auf SD). Informant versetzt -> Schweigen!
+Tag 120: Informant wird bedroht
+Tag 123: Informant entlassen und bedroht. Hat SD Karte versteckt.
+
+
+	! "Okay, ehm... das sind die Aufzeichnungen von John Grenwitch.
+	Ich arbeite für die Prometheus Coorporation bei Projekt Pandora.
+	Wow, ich kann es immernoch nicht fassen. 
+	...und ich rede hier nicht vom Gehalt. 
+	Sondern davon an einem Priorität 2 Projekt zu arbeiten!
+	Die Ausrustüng hier ist fantastisch! 
+	Das ist Wissenschaft, auf höchstem Niveau! 
+	Gott bin ich stolz hier zu sein!"
+
+	! "Tag 21. Das Virus ist gefährlicher als ich dachte. 
+	Es mutiert wirklich schnell und... ein Gegenmittel zu entwickeln wird schwierig.
+	Ich schätze, es wird bestimmt noch ein paar Monate dauern. Ganz davon zu schweigen, es weltweit zu synthetisieren. 
+	Die Geschäftsleitung ist nicht gerade erfreut darüber... aber man wird uns wohl - trotz der fallenden Umsätze - auf Priorität 1 hochstufen und mehr Mittel zur Verfügung stellen."
+	
+	! "Tag 47. Wir haben eine Spur für ein Gegenmittel. 
+	Aber selbst wenn wir es entwickeln können... aufgrund der hohen Virus-Mutation muss die Struktur immer auf das Virus angepasst werden.
+	Damit wird es gänzlich unmöglich ein Gegenmittel lange im Voraus produzieren können. Schließlich muss die DNA-Struktur passen. 
+	Ich fürchte, das Ganze wird noch etwas dauern."
+	
+	! "Tag 84. Anderson hat das Gegenmittel verstärken können. Ich denke, es kann das Virus mit der jeweils passenden DNA-Sequenz abtöten. 
+	Die Belohnung... am nächsten Morgen wurde er versetzt und musste die Arbeit einstellen. 
+	Es sei kein Geld mehr für Forschung verfügbar, heißt es. Seit wann geht einem Priorität 1 Projekt das Geld aus?"
+	
+	! "Tag 98. Das Arbeitsklima ist angespannt. 
+	McRich hat angeblich ohne ein weiteres Wort gekündigt? 
+	Und Anderson? Spurlos verschwunden. Ich könnte mir vorstellen, nachdem er die letzten Tage so lautstark protestiert hat, ist er entlassen worden... aber warum weiß niemand etwas darüber.
+	Scheint, als wäre ich bald der einzige, der noch an 'Projekt Pandora' arbeitet."
+	
+	! "Tag 103. Ich fand heute morgen eine anonyme Nachricht in meinem Briefkasten. Darin war nur eine MicroSD-Karte. Die meisten Daten darauf sind verschlüsselt. Aber es scheint aus dem Labor zu sein. 
+	Irgendjemand hat mir die Unterlagen von Projekt Pandora zugespielt. Ob das von McRich sein kann? 
+	Was, wenn ... wenn man ihn zum Schweigen bringen will?
+	Bin ich paranoid?
+	Es ist schon ein sonderbarer Zufall, dass Anderson genau jetzt diesen 'Unfall' hatte. 
+	Ich glaube, ich muss aufpassen, wem ich vertraue."
+	
+	! "Tag 116. Abteilung 7 wurde geschlossen. 
+	Projekt Pandora! ... Projekt Pandora aus den Unterlagen gestrichen! 
+	Es heißt, das Projekt sei für immer eingestellt worden. 
+	Meine Dokumente wurden vernichtet! 
+	Aber... weshalb vernichtet man dan sämtliche Aufzeichnungen? 
+	Ich wurde versetzt. Priorität 4. 
+	Und die Frage heute: was läuft falsch, wenn ein Viruloge plötzlich an Heuschnupfen forscht?"
+	
+	! "Tag 120. Meine Anfragen in der Führungsetage sorgen für Aufsehen. Unter vier Augen bat mich Wilhelmson mit dem 'Herumschnüffeln' aufzuhören. 
+	Er könne nicht für meine Sicherheit garantieren. Was geht hier vor sich?"
+	
+	! "Tag 123. Mein letzter wohl. 
+	Hah... entlassen. Fragen stellen ist riskant geworden - soviel steht fest! 
+	Ich werde beobachtet. Mein Telefon wird überwacht. 
+	In meine Wohnung wurde eingebrochen...
+	Ich habe die Daten von der SD-Karte an einen sicheren Ort gebracht. 
+	Mag sein, dass ich paranoid werde, aber vielleicht ist das der einzige Grund, weshalb mir noch nichts zugestoßen ist...
+	Ich weiß es nicht!
+	Das ist alles..."
+	
+ENDE	
+	

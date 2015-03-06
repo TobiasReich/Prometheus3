@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html dir="ltr" class="client-js" lang="de"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Dinge, die vermieden werden müssen, da sie zu Fehlfunktionen bzw. zu Abstürzen führen – Das Wherigo Handbuch</title>
+<meta charset="UTF-8">
+<meta name="generator" content="MediaWiki 1.18.0">
+<link rel="shortcut icon" href="http://www.das-wherigo-handbuch.de/skins/common/images/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.das-wherigo-handbuch.de/opensearch_desc.php" title="Das Wherigo Handbuch (de)">
+<link rel="EditURI" type="application/rsd+xml" href="http://www.das-wherigo-handbuch.de/api.php?action=rsd">
+<link rel="copyright" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Das Wherigo Handbuch“" href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom">
+<link rel="stylesheet" href="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load.css">
+<style type="text/css" media="all">.mw-collapsible-toggle{float:right} li .mw-collapsible-toggle{float:none} .mw-collapsible-toggle-li{list-style:none}
+
+/* cache key: db393376883-wig_hb_:resourceloader:filter:minify-css:4:4250852ed2349a0d4d0fc6509a3e7d4c */
+</style><style type="text/css" media="all">.js-messagebox{margin:1em 5%;padding:0.5em 2.5%;border:1px solid #ccc;background-color:#fcfcfc;font-size:0.8em}.js-messagebox .js-messagebox-group{margin:1px;padding:0.5em 2.5%;border-bottom:1px solid #ddd}.js-messagebox .js-messagebox-group:last-child{border-bottom:thin none transparent}
+
+/* cache key: db393376883-wig_hb_:resourceloader:filter:minify-css:4:8b08bdc91c52a9ffba396dccfb5b473c */
+</style><style type="text/css" media="all">.suggestions{overflow:hidden;position:absolute;top:0px;left:0px;width:0px;border:none;z-index:1099;padding:0;margin:-1px -1px 0 0} html > body .suggestions{margin:-1px 0 0 0}.suggestions-special{position:relative;background-color:Window;font-size:0.8em;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0;margin-top:-2px;display:none;padding:0.25em 0.25em;line-height:1.25em}.suggestions-results{background-color:white;background-color:Window;font-size:0.8em;cursor:pointer;border:solid 1px #aaaaaa;padding:0;margin:0}.suggestions-result{color:black;color:WindowText;margin:0;line-height:1.5em;padding:0.01em 0.25em;text-align:left}.suggestions-result-current{background-color:#4C59A6;background-color:Highlight;color:white;color:HighlightText}.suggestions-special .special-label{font-size:0.8em;color:gray;text-align:left}.suggestions-special .special-query{color:black;font-style:italic;text-align:left}.suggestions-special .special-hover{background-color:silver}.suggestions-result-current .special-label,.suggestions-result-current .special-query{color:white;color:HighlightText}.autoellipsis-matched,.highlight{font-weight:bold}
+
+/* cache key: db393376883-wig_hb_:resourceloader:filter:minify-css:4:1421bbe1922a44daa3fbb100d858b3d8 */
+</style><style type="text/css" media="all">#mw-panel.collapsible-nav div.portal{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAABCAMAAAA7MLYKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEtQTFRF29vb2tra4ODg6urq5OTk4uLi6+vr7e3t7Ozs8PDw5+fn4+Pj4eHh3d3d39/f6Ojo5eXl6enp8fHx8/Pz8vLy7+/v3Nzc2dnZ2NjYnErj7QAAAD1JREFUeNq0wQUBACAMALDj7hf6JyUFGxzEnYhC9GaNPG1xVffGDErk/iCigLl1XV2xM49lfAxEaSM+AQYA9HMKuv4liFQAAAAASUVORK5CYII=);background-image:url(http://www.das-wherigo-handbuch.de/extensions/Vector/modules/images/portal-break.png?2011-12-02T07:05:00Z)!ie;background-position:left top;background-repeat:no-repeat;padding:0.25em 0 !important;margin:-11px 9px 10px 11px}#mw-panel.collapsible-nav div.portal h5{color:#4D4D4D;font-weight:normal;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9QTFRFeXl53d3dmpqasbGx////GU0iEgAAAAV0Uk5T/////wD7tg5TAAAAK0lEQVQI12NwgQIG0hhCDAwMTCJAhqMCA4MiWEoIJABiOCooQhULi5BqMgB2bh4svs8t+QAAAABJRU5ErkJggg==) left center no-repeat;background:url(http://www.das-wherigo-handbuch.de/extensions/Vector/modules/images/open.png?2011-12-02T07:05:00Z) left center no-repeat!ie;padding:4px 0 3px 1.5em;margin-bottom:0px}#mw-panel.collapsible-nav div.collapsed h5{color:#0645AD;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAxQTFRF3d3deXl5////nZ2dQA6SoAAAAAN0Uk5T//8A18oNQQAAADNJREFUeNpiYEIDDMQKMKALMDOgCTDCRWACcBG4AEwEIcDITEAFuhnotmC4g4EEzwEEGAADqgHmQSPJKgAAAABJRU5ErkJggg==) left center no-repeat;background:url(http://www.das-wherigo-handbuch.de/extensions/Vector/modules/images/closed-ltr.png?2011-12-02T07:05:00Z) left center no-repeat!ie;margin-bottom:0px}#mw-panel.collapsible-nav div h5:hover{cursor:pointer;text-decoration:none}#mw-panel.collapsible-nav div.collapsed h5:hover{text-decoration:underline}#mw-panel.collapsible-nav div.portal div.body{background:none !important;padding-top:0px;display:none}#mw-panel.collapsible-nav div.persistent div.body{display:block}#mw-panel.collapsible-nav div.first h5{display:none}#mw-panel.collapsible-nav div.persistent h5{background:none !important;padding-left:0.7em;cursor:default}#mw-panel.collapsible-nav div.portal div.body ul li{padding:0.25em 0}#mw-panel.collapsible-nav div.first{background-image:none;margin-top:0px}#mw-panel.collapsible-nav div.persistent div.body{margin-left:0.5em}
+
+/* cache key: db393376883-wig_hb_:resourceloader:filter:minify-css:4:b25127961df2267790f38533756d68e5 */
+</style><meta name="ResourceLoaderDynamicStyles" content="">
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: db393376883-wig_hb_:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */
+</style>
+<script src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load_006.php"></script><script src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load_003.php"></script>
+<script>if(window.mw){
+	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "Dinge,_die_vermieden_werden_müssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abstürzen_führen", "wgTitle": "Dinge, die vermieden werden müssen, da sie zu Fehlfunktionen bzw. zu Abstürzen führen", "wgCurRevisionId": 1434, "wgArticleId": 189, "wgIsArticle": true, "wgAction": "view", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": [], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": false, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": false, "dialogs": false, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}});
+}
+</script><script>if(window.mw){
+	mw.loader.load(["mediawiki.page.startup"]);
+}
+</script><script type="text/javascript" src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load_005.php"></script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns ns-0 ns-subject page-Dinge_die_vermieden_werden_müssen_da_sie_zu_Fehlfunktionen_bzw_zu_Abstürzen_führen action-view skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div class="js-messagebox" id="mw-js-message" style="display:none;"></div>
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Dinge, die vermieden werden müssen, da sie zu Fehlfunktionen bzw. zu Abstürzen führen</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">Aus Das Wherigo Handbuch</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Wechseln zu: <a href="#mw-head">Navigation</a>,
+					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div dir="ltr" class="mw-content-ltr" lang="de"><p>Wegen 
+Programmierfehlern in den einzelnen WIG-Playern, dürfen verschieden 
+Programmkonstrukte nicht verwendet werden. Dies kann sowohl die 
+Programmierung mit den Buildern, als auch die Programmierung in LUA 
+betreffen.
+</p>
+<h2> <span class="mw-headline" id="Dinge_die_unbedingt_vermieden_werden_m.C3.BCssen.2C_damit_eine_Cartridge_auf_allen_Ger.C3.A4tetypen_lauff.C3.A4hig_ist">Dinge die unbedingt vermieden werden müssen, damit eine Cartridge auf allen Gerätetypen lauffähig ist</span></h2>
+<p><i>Will man eine für alle Geräte funktionsfähige Cartridge erstellen,
+ so muss man die Aktionen ausschließen, die bei mindestens 1 Gerätetyp 
+zu Problemen führen (können).</i>
+
+</p>
+<ul><li> Vermeide <span style="color:red">OnClick-Events</span> bei Items, Charaktern, Tasks und Zonen. Das onclick<span style="color:green"><b>ed</b></span> Event bei Message Boxen kann man hingegen uneingeschränkt belegen. OnClick-Ereignisse führen bei <b>Garmin</b>-Geräten entweder zum Absturz oder das Ereignis, das hinter dem OnClick Event steht, wird NICHT ausgeführt.
+</li></ul>
+<ul><li> Vermeide <span style="color:red">Commands bei Zones und Tasks</span>. Bei <b>Garmin</b>-Geräten werden die Command-Schaltflächen nur bei Characters und Items angezeigt
+</li></ul>
+<ul><li> Vermeide <span style="color:red">mehr als 6 Commands für ein Item oder Charakter</span>. Der <b>iPhone Player</b> liefert bei Items und Charaktern, die mit mehr 6 Commands bestückt sind, <b>sporadisch</b> vertauschte Werte zurück&nbsp;! Der Workaround besteht sinngemäß darin, maximal 6 Commands pro Element zu verwenden.
+</li></ul>
+<ul><li> Vermeide <span style="color:red">Messages über 850 (inkl. Cariage Return&nbsp;!) Zeichen Länge</span>,
+ sie können leicht zum Absturz führen. Teile längere Texte deswegen auf,
+ entweder in geschachtelte Messages oder in einen mehrseitigen Dialog.
+</li></ul>
+<ul><li> Verwende <span style="color:red">Show Screen</span> <b>nur</b> 
+für Mainscreen - nicht z.B. für Task- oder Zonenbereich (Das ist der 
+Screen, wo die Character, Gegenstände, Zonen als Liste angezeigt 
+werden). Das führt auf <b>Garmin</b>-Geräten zum Absturz. 
+ShowObjectDetails (zum Zeigen der Seite einer bestimmten Zone, 
+Character, Item, Task) hingegeben funktioniert problemlos.
+</li></ul>
+<ul><li> Vermeide <span style="color:red">mehr als 7 AKTIVE Zonen</span>.
+ Generell ist es am besten, nur die absolut notwendigen Zonen aktiv zu 
+setzen und diese inaktiv schalten, sobald sie nicht mehr benötigt werden
+ (belege hierfür vorzugsweise das onExit Event) 
+</li></ul>
+<ul><li> Vermeide <span style="color:red">kompliziert geformte</span> 
+Zonen - je komplexer eine Zone ist - je mehr Punkte sie hat - ggf. 
+spielt auch die Form (konkav/konvex) noch eine Rolle - desto mehr hat 
+ein Garmin zu rechnen und desto weniger Zonen können gleichzeitig aktiv 
+sein. 
+</li></ul>
+<ul><li> Vermeide <span style="color:red">offene Inputs während OnEnter/OnExit Events</span>.
+ Überlagert sich eine Message ausgelöst durch ein Zonenevent mit einem 
+offenen Input so kommt es zum Absturz der Cartridge. Ein möglicher 
+funktionierender Workaround besteht darin einen "Interrupt" einzubauen 
+in Form eines RETURN ("return" als Lua Keyword einfügen), wenn die 
+Eingabe leer ist. Eine Veranschaulichung diese Phänomens sowie die 
+passende Gegenmaßnahme für Urwigo kann man sich <b><a rel="nofollow" target="_blank" class="external text" href="http://www.das-wherigo-handbuch.de/images/2/2e/InputCrash.zip">hier herunterladen</a></b>.
+ Danke an Charlenni für diesen "Hot Fix". Info&nbsp;: Der Absturz tritt 
+nur beim Inputtyp "Text" auf, "Number" (Zahleneingaben) kann ohne 
+Workaround verwendet werden.
+</li></ul>
+<ul><li> Vermeide <span style="color:red">Umlaute</span> wie ä,ö,ü,ß. Sie werden meist durch "?" oder a,o,u angezeigt, es gibt <b><a rel="nofollow" target="_blank" class="external text" href="http://www.das-wherigo-handbuch.de/index.php?title=Deutsche_Umlaute_mit_Urwigo">hier</a></b> eine Demo-Cartridge für diejenigen, die auf deutsche Umlaute nicht verzichten wollen (für Urwigo)
+</li></ul>
+<ul><li> Vermeide die <span style="color:red">Stromsparfunktion</span>, 
+einige Geräte stürzen ab, wenn sie aktiv wird (bei manchen Cartridges 
+reproduzierbar vor allem im Zusammenhang mit Eingabe-Dialogen)
+</li></ul>
+<ul><li> Benutze zwecks Kompatibilität nur Bilder vom <span style="color:red">Typ JPG</span>
+ mit einer Farbtiefe von 24bpp (auch Schwarzweißbilder). Reproduzierbar 
+werden bei den Garmin Geräten sowohl (Farb)bilder vom Typ BMP, GIF und 
+PNG, als auch JPG Schwarzweißbilder mit einer Farb-/Graustufentiefe von 
+8bpp <b>NICHT</b> angezeigt.
+</li></ul>
+<ul><li> <span style="color:red">automatische Bildwechsel</span>: bei <b>iPhone</b>
+ muss man bei jedem Bildwechsel bei Items bestätigen (Bilder von 
+Messages lassen sich automatisch wechseln ohne Bestätigung). Anmerkung: 
+Inzwischen scheint das nicht mehr bei jedem Apfel-Gerät der Fall zu 
+sein. Hier mögen doch bitte die Apfel-Benutzer reinschreiben, was denn 
+nun Fakt ist und was nicht
+</li></ul>
+<ul><li> bei Items, die <span style="color:red">'on proximity'</span> sichtbar werden, funktionieren Kommandos auf <b>iPhone</b> nicht (PiGo bzw. Wherigo-Player <b>vor Version 1.3.7). Seit der Wherigoversion 1.3.7 ist dieser Fehler behoben</b>
+</li></ul>
+<ul><li> Die <span style="color:red">Navigation zu Items / Charakteren</span> die eine Koordinate enthält, wird auf dem <b>iPhone</b> nicht unterstützt. Das <b>iPhone</b> kann nur auf Zonen navigieren.
+</li></ul>
+<ul><li> Vermeide <span style="color:red">Eingaben (Inputs) mit mehr als 18 Zeichen</span>. Das Eingabefeld beim <b>Garmin</b>
+ Oregon (auch andere?) kann nur 18 Zeichen aufnehmen, wobei bei längeren
+ Eingaben immer das letzte Zeichen überschrieben wird. Andere 
+Geräte/Player können auch längere Eingaben verarbeiten.
+</li></ul>
+<ul><li> Vermeide <span style="color:red">Bildgrößen</span>, die größer 
+als 230px breit sind. Zu grosse Bilder führen auch playerabhängig dazu, 
+dass man um zusätzlichen Text zu lesen ggf. scrollen muss - daher 
+sollten Bildgrößen sorgfältig gewählt werden. 
+</li></ul>
+<p>Unterschiedliche Verhaltensweisen bzw. Darstellungsarten findet ihr auch unter: <a href="http://www.das-wherigo-handbuch.de/index.php?title=Unterschiedliches_Verhalten_einzelner_WIG-Player" title="Unterschiedliches Verhalten einzelner WIG-Player">Unterschiedliches Verhalten einzelner WIG-Player</a>.
+</p>
+<h2> <span class="mw-headline" id="Dinge.2C_die_man_vermeiden_sollte.2C_weil_man_das_Verhalten_des_Players_evtl._nicht_gut_findet">Dinge, die man vermeiden sollte, weil man das Verhalten des Players evtl. nicht gut findet</span></h2>
+<ul><li> Wenn man mit <span style="color:red">Items in Items</span> arbeitet, werden auf dem <b>iPhone</b>
+ für verkettete Items (Koffer: Kommando einpacken geht mit Hut, Mütze, 
+Schal) auch Items angeboten, die nicht im Inventar sind - d.h. z.b. in 
+einem Regal liegen - bei allen anderen Playern werden diese Items nicht 
+angeboten zur Auswahl - hier entweder noch explizit die Items vorher 
+prüfen oder aber beim Reinlegen in Container-Items unsichtbar machen...
+</li></ul>
+<ul><li> <span style="color:red">Uhrzeit (os.date)</span>: Verschiedene 
+Player geben verschiedene Zeiten aus (verschiedene Zeitzonen, Garmin = 
+ME(S)Z, Whereyougo: GMT - ausserdem ist auf den meisten Playern die 
+Uhrzeit durch Zeitumstellung manipulierbar.
+</li></ul>
+<ul><li> <span style="color:red">Bildformate</span>: abgesehen davon, 
+dass Bilder max. 230px breit sein sollten, kann es sein, dass manche 
+jpg-Bilder auf Garmin nicht angezeigt werden, andere Formate als jpg - 
+z.b. gif sollte man auch nicht verwenden - sollte das vorkommen, hilft 
+ein Konvertieren der Bilder - z.b. in ein PNG-Format und wieder zurück 
+in ein jpg-Format.
+</li></ul>
+<h2> <span class="mw-headline" id="Syntax-Konstruktionen_in_LUA.2C_die_Probleme_machen_bzw._zu_Abst.C3.BCrzen_f.C3.BChren">Syntax-Konstruktionen in LUA, die Probleme machen bzw. zu Abstürzen führen</span></h2>
+<ul><li> <span style="color:red">table.getn</span> führt auf <b>Whereyougo/OpenWig</b>
+ zum Absturz, stattdessen # benutzen oder mit einer for-Schleife über 
+alle Table-Einträge drübergehen (for key, value in pairs(table)...)
+</li></ul>
+<ul><li> <span style="color:red">print</span> wird auf dem <b>iPhone</b> nicht unterstützt, also rechtzeitig bei Fertigstellung rausnehmen
+</li></ul>
+<ul><li> <span style="color:red">String-Operationen auf Variablen, die den Wert <b>nil</b> enthalten</span> - z.B. concatenate, gsub (Fehler bei <b>Whereyougo</b>). Kann durch vorherige If-Abfrage vermieden werden.
+</li></ul>
+<ul><li> <span style="color:red">Distance</span>: Auf <b>Whereyougo/OpenWig</b> funktioniert nur eine Methode, um aus einer Distance wieder Meter zu bekommen ('ft' geht auch):
+</li></ul>
+<p><code>
+</code></p><code>
+<pre>                  local d = Wherigo.Distance(100,'m')<br>
+                  local dn = d:GetValue 'm'
+</pre>
+</code><p><code></code>
+</p>
+<ul><li> <span style="color:red">GetAllofType</span>: Klasse Funktion, die leider im Moment auf <b>Whereyougo/Openwig</b> nicht implementiert ist - man kann die fehlende Funktion aber quasi nachprogrammieren - unter [<a rel="nofollow" target="_blank" class="external autonumber" href="http://www.das-wherigo-handbuch.de/index.php?title=Alle_Objekte_einer_LUA-Datei_ausgeben_/_bearbeiten">[1]</a>]
+ gibts Beispielcode und Lösungsansätze dazu, über alle Elemente eines 
+Wherigo's drüberzugehen (geht leider nicht über Dialoge oder Messages, 
+weil hier keine Objekte existieren)
+</li></ul>
+<ul><li> Wenn man mit der Funktion <span style="color:red">Contains </span>
+ arbeitet unter LUA muss man bei Android aufpassen - Lässt man da 
+Contains auf Objekte los, die kein Item oder Character sind, kann es 
+Abstürze geben.
+</li></ul>
+<ul><li> <span style="color:red">Wherigo.VectorToPoint</span>: Diese 
+Funktion liefert auf dem I-Phone zumindest bis Player-Version v317 einen
+ um 180Grad verkehrten Bearing-Wert. Vorrangig Play-Anywheres von 
+bodenseepingu (z.B. Geo-Memory) sind davon betroffen - ist meist der 
+Fall, wenn die Lage einer Linie, die aus 2 Punkten gebildet wird 
+ausgewertet wird....Abhilfe: eigene Funktion, siehe Geoclub <a rel="nofollow" target="_blank" class="external autonumber" href="http://www.geoclub.de/viewtopic.php?f=74&amp;t=60766&amp;start=10">[2]</a>
+</li></ul>
+<ul><li> <span style="color:red">Wherigo.Distance beim iPhone</span>: muss immer in der Form <b>Wherigo.Distance(variable,'m')</b> oder <b>Wherigo.Distance(variable,'ft')</b>
+ erfolgen, da es sonst zu Folgefehlern kommen kann z.b. bei 
+Wherigo.TranslatePoint. Wichtig für alle 
+Play-Anywhere-Cartridges&nbsp;!!! Oder Spezialitäten wie Resize_Zone
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 39/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key db393376883-wig_hb_:pcache:idhash:189-0!*!0!!*!*!* and timestamp 20130515182129 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Von „<a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;oldid=1434">http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;oldid=1434</a>“				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id="catlinks" class="catlinks catlinks-allhidden"></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Meine Werkzeuge</h5>
+	<ul>
+		<li id="pt-login"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:Anmelden&amp;returnto=Dinge%2C_die_vermieden_werden_m%C3%BCssen%2C_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren" title="Sich anzumelden wird zwar gerne gesehen, ist aber keine Pflicht. [alt-shift-o]" accesskey="o">Anmelden</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namensräume</h5>
+	<ul>
+					<li id="ca-nstab-main" class="selected"><span><a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren" title="Seiteninhalt anzeigen [alt-shift-c]" accesskey="c">Seite</a></span></li>
+					<li id="ca-talk" class="new"><span><a href="http://www.das-wherigo-handbuch.de/index.php?title=Diskussion:Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;action=edit&amp;redlink=1" title="Diskussion zum Seiteninhalt [alt-shift-t]" accesskey="t">Diskussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Varianten</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Ansichten</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren">Lesen</a></span></li>
+					<li id="ca-viewsource"><span><a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;action=edit" title="Diese Seite ist geschützt. Der Quelltext kann angesehen werden. [alt-shift-e]" accesskey="e">Quelltext anzeigen</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;action=history" title="Frühere Versionen dieser Seite [alt-shift-h]" accesskey="h">Versionsgeschichte</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Aktionen</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Suche</label></h5>
+	<form action="/index.php" id="searchform">
+		<input name="title" value="Spezial:Suche" type="hidden">
+				<input autocomplete="off" tabindex="1" name="search" title="Das Wherigo Handbuch durchsuchen [alt-shift-f]" accesskey="f" id="searchInput" type="search">		<input name="go" value="Seite" title="Gehe direkt zu der Seite, die exakt dem eingegebenen Namen entspricht." id="searchGoButton" class="searchButton" type="submit">		<input name="fulltext" value="Suchen" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" class="searchButton" type="submit">			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint collapsible-nav">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(/skins/common/images/wig.jpg);" href="http://www.das-wherigo-handbuch.de/index.php?title=Hauptseite" title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal first persistent" id="p-navigation">
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Hauptseite" title="Hauptseite besuchen [alt-shift-z]" accesskey="z">Hauptseite</a></li>
+			<li id="n-portal"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Das_Wherigo_Handbuch:Gemeinschafts-Portal" title="Über das Projekt, was du tun kannst, wo was zu finden ist">Gemeinschafts-Portal</a></li>
+			<li id="n-currentevents"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Das_Wherigo_Handbuch:Aktuelle_Ereignisse" title="Hintergrundinformationen zu aktuellen Ereignissen">Aktuelle Ereignisse</a></li>
+			<li id="n-recentchanges"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Das Wherigo Handbuch [alt-shift-r]" accesskey="r">Letzte Änderungen</a></li>
+			<li id="n-randompage"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite [alt-shift-x]" accesskey="x">Zufällige Seite</a></li>
+			<li id="n-help"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Hilfe:Inhaltsverzeichnis" title="Hilfeseite anzeigen">Hilfe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- TOOLBOX -->
+<div class="portal expanded" id="p-tb">
+	<h5 tabindex="2">Werkzeuge</h5>
+	<div style="display: block;" class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:Linkliste/Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren" title="Liste aller Seiten, die hierher verlinken [alt-shift-j]" accesskey="j">Links auf diese Seite</a></li>
+			<li id="t-recentchangeslinked"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:%C3%84nderungen_an_verlinkten_Seiten/Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [alt-shift-k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+			<li id="t-specialpages"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Spezial:Spezialseiten" title="Liste aller Spezialseiten [alt-shift-q]" accesskey="q">Spezialseiten</a></li>
+			<li><a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;printable=yes" rel="alternate">Druckversion</a></li>
+			<li id="t-permalink"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Dinge,_die_vermieden_werden_m%C3%BCssen,_da_sie_zu_Fehlfunktionen_bzw._zu_Abst%C3%BCrzen_f%C3%BChren&amp;oldid=1434" title="Dauerhafter Link zu dieser Seitenversion">Permanenter Link</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 28. April 2013 um 10:08 Uhr geändert.</li>
+											<li id="footer-info-viewcount">Diese Seite wurde bisher 2.626-mal abgerufen.</li>
+											<li id="footer-info-copyright">Inhalt ist verfügbar unter der Lizenz <a class="external" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons „Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen“</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Das_Wherigo_Handbuch:Datenschutz" title="Das Wherigo Handbuch:Datenschutz">Datenschutz</a></li>
+											<li id="footer-places-about"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Das_Wherigo_Handbuch:%C3%9Cber" title="Das Wherigo Handbuch:Über">Über Das Wherigo Handbuch</a></li>
+											<li id="footer-places-disclaimer"><a href="http://www.das-wherigo-handbuch.de/index.php?title=Das_Wherigo_Handbuch:Impressum" title="Das Wherigo Handbuch:Impressum">Impressum</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/cc-by-nc-sa.png" alt="Creative Commons „Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen“" height="31" width="88"></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" height="31" width="88"></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<script src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load_002.php"></script>
+<script>if(window.mw){
+	mw.loader.load(["mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.simpleSearch"]);
+}
+</script><script type="text/javascript" src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load.php"></script><script type="text/javascript" src="Dinge,%20die%20vermieden%20werden%20m%C3%BCssen,%20da%20sie%20zu%20Fehlfunktionen%20bzw.%20zu%20Abst%C3%BCrzen%20f%C3%BChren%20%E2%80%93%20Das%20Wherigo%20Handbuch-Dateien/load_004.php"></script>
+<script>if(window.mw){
+	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
+	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"variant":"de","language":"de","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
+	
+	/* cache key: db393376883-wig_hb_:resourceloader:filter:minify-js:4:4ed4a961b0acb3f30dec36d46060ac95 */
+}
+</script><!-- Served in 0.309 secs. -->
+	
+
+<div class="suggestions" style="top: 75px; width: 142px; display: none; left: auto; right: 140px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div></body></html>

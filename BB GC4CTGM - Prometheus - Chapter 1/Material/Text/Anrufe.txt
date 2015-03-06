@@ -1,0 +1,102 @@
+Die Virus Cache Story:
+	
+UV-TAG	 :-)
+	
+Ablauf:
+	1. In Fußgängerzone warten. Du bekommst eine Nachricht vom Informanten 
+		"Hallo? Sind Sie der Troubleshooter? Gott sei Dank! 
+		Mein Name ist John Greenwitch. Wir haben nicht viel Zeit. 
+		Ich befinde mich ganz in Ihrer Nähe. Verhalten Sie sich unauffällig und sehen Sie jetzt auf gar keinen Fall hier her!
+		Sie müssen mir helfen. Es geht um mehr, als Sie sich vorstellen können.
+		Kennen Sie die Prometheus Coorporation? Einer der größten Biokonzerne der Welt. 
+		Ich war dort bis vor Kurzem Mitarbeiter in der Forschungsabteilung.
+		Wir erforschten Gegenmittel zu den gefährlichsten Virenstämmen dieser Welt. Dengue, Hanta, Ebola... was immer Sie sich vorstellen!
+		Vor einiger Zeit begann das 'Projekt Pandora'. Ein Gegenmittel zu einem bislang unbekannten Virus. Schnell mutierend, höchst ansteckend... und von uns selbst Hergestellt.
+		Bald begann man Druck zu machen. 'Es eilt!', sagten sie uns. Aber... Verstehen Sie? Weshalb eilt die Herstellung eines Gegenmittels, wenn man es gar nicht einsetzen muss?
+		Ich muss Schluss machen. Sie spüren mich auf. Ich... ich sende Ihnen Koordinaten. Dort sind meine Aufzeichnungen versteckt... für den Fall, dass... dass mir etwas zustoßen sollte... Sie müssen sie vor denen finden und mir diese Unterlagen zukommen lassen. Es ist von höchster Dringlichkeit! Beeilen Sie sich. Das Leben... das Leben von uns allen hängt jetzt von Ihnen ab! Gott schütze Sie!"
+		
+	2. Die MicroSD bergen
+		Videobotschaften sind in neuer Textdatei
+		
+	3. Senden der auf der SD Karte befindlichen Daten an Informanten (Code eintippen)
+		Menü öffnen: "Und? Haben Sie die Daten gefunden? Geben Sie den Dateinamen ein und laden Sie sie hoch. Beeilung!"
+		Wenn Richtig: "Sehr gut, sehr gut. Das sind die Forschungsdaten. Damit können wir arbeiten. Ich muss die Daten entschlüsseln, aber ich denke, damit kann ich alles über den Plan herausfinden, das Virus einzusetzen... und vielleicht sogar ein Gegenmittel herstellen. Vertrauen Sie mir, wir schaffen das! Ich melde mich wieder, sobald ich Neuigkeiten habe!"
+		Wenn Falsch: "Nein, Nein! Das sind nicht die Daten, die wir brauchen. Suchen Sie die Speicherkarte."
+		
+	4. Anruf von Mr. Johnson von der Zeus Inc. 
+		"Ich grüße Sie! Bitte, hören Sie mir jetzt gut zu. Meine Name ist Johnson. Sie kennen mich nicht. Aber wir haben ein gemeinsames Ziel. Die Verbreitung des Virus zu stoppen. Ich arbeite im Auftrag der Zeus Inc. Ein Konkurrenzunternehmen, für jene, die dieses Virus noch heute Nacht freisetzen werden. Meinen Informationen zufolge arbeiten Sie mit John Greenwitch zusammen. Er hat ein Gegenmittel. Das können wir soweit bestätigen. Aber passen Sie gut auf. Das Gegenmittel wird ihnen nichts nützen. Sie hoffen darauf, dass sie nur eine Infektionsquelle haben. Aber glauben Sie mir. Ein Unternehmen wie die Prometheus Corporation hat immer einen Plan B parat. Selbst wenn - und ich betone dies ausdrücklich - selbst WENN Sie es schaffen, das Virus zu neutralisieren, gibt es schon morgen irgendwo 10000 Meilen von hier einen anderen Ursprung für das Virus. Sie können gegen ein Multimilliarden-schweres Unternehmen nicht gewinnen. Wir schon! Bringen Sie den Informanten zu uns. Mit seiner Hilfe können wir ein breites Gegenmittel erstellen und weltweit zugänglich machen. Sicher, es werden Menschen sterben. Aber dank Ihrer Hilfe werden es nicht alle sein. Es ist ihre Entscheidung! Aber können Sie die Verantwortung für Ihr alleiniges Scheitern übernehmen? Wir konnten die Quelle des Anrufers auf ein Gebiet zurückverfolgen. Begeben Sie sich in seine Nähe. Sobald er sich bei Ihnen meldet um das Antivirus zu übergeben, müssen Sie uns Bescheid geben! Wir kümmern uns um den Rest! Ich sage es nicht gerne, aber die Zukunft der Menschheit hängt an Ihnen. Vergessen Sie das nicht!"
+		
+	5. Anruf vom Informanten. 
+		"Hallo? Sind Sie da?
+		Ich habe anhand der Forschungsdaten ein vorläufiges Gegenmittel erschaffen. Es kann das Virus aufhalten. Aber es ist äußerst instabil.
+		Sie müssen Sich beeilen!
+		Kommen Sie zu den folgenden Koordinaten. Ich geben Ihnen dort das Gegenmittel."
+		
+	6A (Ausliefern) -> Mr. Johnson anrufen und Koordinaten mitteilen 
+		-> Informant wird abgeführt.
+		-> Als erste Belohnung bietet Dir Mr. Johnson das Gegenmittel an. 
+		"Ich danke Ihnen. Ich muss gestehen, ich hatte zuerst meine Zweifel, was Sie angeht. Aber glauben Sie mir, Sie haben das Richtige getan und der Menschheit einen großen Dienst erwiesen! Lassen Sie mich meine Dankbarkeit zum Ausdruck bringen. Wir werden eine kleine Belohnung für Sie vorbereiten. Kommen Sie zu den angegebenen Koordinaten. Ach, und noch etwas... ich weiß Ihre Arbeit sehr zu schätzen. Gerade jetzt werden wir tatkräftiges Personal benötigen. Ich möchte Sie gerne in meinem Team wissen. Denken Sie darüber nach! Gott schütze Sie!"
+ENDE			Im Cache liegt die Mitarbeiter-List (Log): Angeheuert am ...
+
+	6B Gegenmittel an sich nehmen (Nicht ausliefern) -> Ausliefern Task deaktivieren!
+		Anruf: 
+		"Hallo? Entschuldigen Sie, ich konnte nicht auf Sie warten. Die verfolgen mich!
+		Ich musste das Reagenzglas mit dem Gegenmittel zurücklassen. Finden Sie es! Es reagiert stark auf UV-Licht!
+		Notieren Sie sich die DNA-Sequenz. Und dann machen Sie dieses gottverdammte Virus unschädlich!
+		Aber beeilen Sie sich. Das Virus ist sehr instabil, wenn es mutiert, ist das Antivirus nutzlos. Sie haben nur ein paar Minuten!"
+		
+		Wenn richtig:
+		"Jaa! Sehr gut, Sie haben es! Jetzt begeben Sie sich zu dem Virus und vernichten es!"
+		Wenn falsch:
+		"Nein, das ist die falsche Sequenz. Suchen Sie weiter!"
+		
+		(Items können genommen werden, wenn man sich in einer "Zone" befindet. Das müsste nicht physisch sein)
+
+	7. Virusbehälter finden.
+		Hier läuft die Zeit. 
+		Anruf: 
+		"Schnell, die Zeit läuft. Meinen Berechnungen zu Folge haben wir vielleicht noch 15 Minuten bis das Virus mutieren.
+		Das Gegenmittel ist dann wirkungslos. Halten Sie nach einem Reagenzglas ausschau. Auch das Virus reagiert stark auf UV-Licht."
+		TIMER: 16 Minuten
+		
+		Timer bei 5 Minuten:
+		"Haben Sie es noch nicht gefunden? Ich vermute es wird an einer Wasserquelle platziert sein.
+		So kann es sich schneller verbreiten. Suchen sie dort!"
+
+		Timer abgelaufen:
+		"Verflucht, Sie haben es nicht geschafft! Möge Gott uns allen gnädig sein!
+		Aber... Nein! Nein, es ist nicht zu spät. Die Schlacht mögen wir verloren haben. 
+		Aber den Krieg geben wir nicht so leicht geschlagen. 
+		Es gibt noch eine Hoffnung... kommen Sie zu den folgenden Koordinaten! Dort finden Sie einen ... toten Briefkasten.
+		Um das Schlimmste zu verhindern, müssen wir nun mit anderen Troubleshootern wie Ihnen in Kontakt treten. Ich verlasse mich auf Sie!"
+		
+TS		Troubleshooter:
+		
+		Wenn Timer gestoppt:
+		"Fantastisch. Sie haben das Virus aufgehalten. 
+		Die Prometheus Corporation wird sich zwar nicht so schnell geschlagen geben,
+		aber für den Moment ist die Menschheit sicher.
+		Kommen Sie zu den folgenden Koordinaten... dort finden Sie einen toten Briefkasten.
+		Um Prometheus vollends das Handwerk zu legen, müssen wir nun mit anderen Helden wie Ihnen in Kontakt treten.  Ich verlasse mich auf Sie!"
+		
+ENDE	Helden:
+		
+
+
+
+-----------	
+		
+	8A 	Geschafft. Code aus dem Petling eingegeben. (Ja, das ist wohl, wie wir den Virus killen) Meldung von Informant: "Danke, Sie haben nicht nur ihr eigenes Leben gerettet. Ich weiß nicht, was die Prometheus Corporation nun anstellen wird, wo wir ihren Plan vereitelt 
+		haben. Aber ich weiß, dass Sie uns allen einen wichtigen Dienst erwisen haben.Passen Sie auf sich auf! Viel Glück, Sie werden es brauchen - mehr denn je!"
+ENDE
+
+	8B	Nicht geschafft.
+		Die Zeit ist um. Das Virus ist mutiert / ausgebrochen. Jetzt kann uns niemand mehr helfen...
+		Anruf: "David Greenwitch hier. Ich bin Unternehmensführer der Prometheus Corporation. Ich habe die letzten Stunden Ihre Fähigkeiten verfolgt. Gut, Sie haben es nicht geschafft, das Virus aufzuhalten. Aber was viel wichtiger ist, Sie haben es nicht and die Zeus Inc. ausgeliefert. Ich kann Ihre unfreiwillige Loyalität nur honorieren...
+		Wissen Sie, die Welt wird sich demnächst ändern. Meine... Geldgeber haben mich authorisiert, Ihnen ein Angebot zu unterbreiten. Vielleicht haben Sie Interesse an einer neuen Tätigkeit... Wir brauchen lediglich eine Unterschrift von Ihnen. Kommen Sie unverzüglich zu den folgenden Koordinaten..."
+ENDE
+
+		
+	Ich bin übrigens dafür, dass wir den 2. Teil (auch angekündigt) entsprechend der meisten Einträge dann gestalten. Also wenn die meisten die Welt abgewrackt haben, wirds damit weiter gehen. Wenn sie gerettet wurde, dann so und ansonsten eben mit der Seuche und dem ABC Gegenmittel. Vielleicht motiviert das die Leute noch etwas mehr, das noch einmal durchzuspielen. :-)
+
+
