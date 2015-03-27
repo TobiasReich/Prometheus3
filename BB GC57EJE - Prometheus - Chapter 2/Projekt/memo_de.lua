@@ -12,7 +12,8 @@ function save_game(entry)
     prometheus_chapter_2:RequestSync()
 end
 
-text_memo =
+-- text_memo located in prometheus_chapter_2.ZVariables
+text_memo_initial =
 "Hier halte ich in umgekehrter chronologischer Reihenfolge wichtige Ereignisse fest. Ich kann im Übrigen extrem schnell schreiben! :-D Bei wichtigen Ereignissen wird das Spiel automatisch gespeichert und hier ein Eintrag gemacht."
 
 text_event_01_previously =

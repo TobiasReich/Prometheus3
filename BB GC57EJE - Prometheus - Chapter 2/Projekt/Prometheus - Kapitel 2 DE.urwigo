@@ -93,7 +93,7 @@
 </Wherigo:WigoCoordinate>
 </StartingLocation>
 <Version>
-<System:String>4.1</System:String>
+<System:String>4.3</System:String>
 </Version>
 <Company>
 <System:String xsi:nil="true" />
@@ -105,7 +105,7 @@
 <System:DateTime>09/12/2013 19:14:05</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>03/02/2015 23:04:26</System:DateTime>
+<System:DateTime>03/27/2015 19:20:30</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -13787,6 +13787,26 @@ The player has to leave within seconds.</System:String>
 <Variables>
 <Wherigo:WigoVariable xsi:nil="true" ref="key39" />
 </Variables>
+<Variables>
+<Wherigo:WigoVariable>
+<Identifier>
+<System:String>text_memo</System:String>
+</Identifier>
+<Name>
+<System:String>text_memo</System:String>
+</Name>
+<Description>
+<System:String>The text that will be continiuously written
+into the memo as the game advances.</System:String>
+</Description>
+<Type>
+<Wherigo:WigoVariableType>String</Wherigo:WigoVariableType>
+</Type>
+<Value>
+<System:String></System:String>
+</Value>
+</Wherigo:WigoVariable>
+</Variables>
 <Tasks>
 <Wherigo:WigoTask key="key110">
 <Identifier>
@@ -14584,8 +14604,7 @@ The player has to leave within seconds.</System:String>
 <System:String>save_game(
     string.format("%s\n%s",
         text_01_previously,
-        text_event_01_previously),
-    prometheus_chapter_2)</System:String>
+        text_event_01_previously))</System:String>
 </Value>
 </Actions:SnippetAction>
 </Actions>
@@ -17777,7 +17796,7 @@ string_no = text_no
 item_memo.Name = memo_name
 item_memo.Description = memo_description
 item_memo.Commands.command_view.Text = memo_command_view_caption
-</System:String>
+text_memo = text_memo_initial</System:String>
 </Value>
 </Actions:SnippetAction>
 </Actions>
