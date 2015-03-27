@@ -33,7 +33,7 @@ table, th, td {
 </p>
 
 <a name="german_description"><h3>Synopse</h3></a>
-<p>Nachdem du dich in <a href="http://coord.info/gc4ctgm">Kapitel 1: Projekt Pandora</a> gegen Mr. Johnson entschieden hast, muss die Welt und auch du nun die Konsequenzen dafür tragen, dass das Gegenmittel nicht in Masse produziert wurde. Mr. Johnson gibt dir aber noch einmal eine Chance.</p>
+<p>Nachdem du dich in <a href="http://coord.info/gc4ctgm">Kapitel 1: Projekt Pandora</a> gegen Mr. Johnson entschieden hast, muss die Welt und auch du nun die <a href="http://youtu.be/le0_GkG7Hu8">Konsequenzen</a> dafür tragen, dass das Gegenmittel nicht in Masse produziert wurde. Mr. Johnson gibt dir aber noch einmal eine Chance.</p>
 
 <h3>Spielhinweise</h3>
 <p>In diesem WherIGo wirst du dich viel bewegen. Die Spielstrecke beträgt etwa fünf Kilometer und das Spiel kann auch gut drei Stunden dauern. Und am Ende landest du etwas ab vom Schuss, was aber nur heißt, dass du andere Caches in einer dir vielleicht noch unbekannten Gegend entdecken kannst :-). Eine UV-Lampe wird tatsächlich benötigt, da der einzige Nicht-UV-Hinweis in dem Spiel heruntergefallen ist. Falls du dir diese Seite runtergeladen hast, um sie offline verfügbar zu haben, solltest du sie an dem Tag, an dem du spielst, nochmal updaten, denn wir nehmen Verbesserungen wirklich ernst und so kann es sein, dass es eine neue Version gibt.</p>
@@ -93,7 +93,12 @@ table, th, td {
     </thead>
     <tbody>
     <tr>
-        <td><a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Version 4.1</a></td>
+        <td><a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Version 4.3</a></td>
+        <td>Memo wird in ZVariables gespeichert.</td>
+        <td>27. März 2015</td>
+    </tr>
+    <tr>
+        <td>Version 4.1</td>
         <td>Eine statische Zone großzügiger gestaltet, so dass man wahrscheinlicher drin bleibt und nicht aus Versehen rausfällt.</td>
         <td>28. September 2014</td>
     </tr>
@@ -114,7 +119,7 @@ table, th, td {
     </tr>
     <tr>
         <td>Version 3.7</td>
-        <td>Spielfeldbegrenzung und andere Zonen großzügiger gestaltet, um GPS-Ungenauigkeiten und Straßen-Canyons etwas in Einklang zu bringen. Text in UTF-8! Jä würklich Täxt mit Ümläütß, bis auf den Einf?hrungstext, da funktioniert das nicht.</td>
+        <td>Spielfeldbegrenzung und andere Zonen großzügiger gestaltet, um GPS-Ungenauigkeiten und Straßen-Canyons etwas in Einklang zu bringen. Text in UTF-8! Ja würklich Text mit Umlauten, bis auf den Einf?hrungstext, da funktioniert das nicht.</td>
         <td>30. August 2014</td>
     </tr>
     <tr>
@@ -170,7 +175,7 @@ table, th, td {
 
 <a name="english_description"><h3>Synopsis</h3></a>
 <p>The English version will follow soon.</p>
-<p>After you have decided in <a href="http://coord.info/gc4ctgm">Chapter 1: Project Pandora</a> to work against Mr. Johnson, the world and you have to bear the consequences for the antidote not having been mass-produced. But Mr. Johnson wants to give you a second chance.</p>
+<p>After you have decided in <a href="http://coord.info/gc4ctgm">Chapter 1: Project Pandora</a> to work against Mr. Johnson, the world and you have to bear the <a href="http://youtu.be/le0_GkG7Hu8">consequences</a> for the antidote not having been mass-produced. But Mr. Johnson wants to give you a second chance.</p>
 
 <h3>About this game</h3>
 <p>In this WherIGo you will move a lot, covering a distance of about five kilometers and it may take about three hours to solve. You will also end up somewhere far off, but this only means, you can find other caches in an area yet to be charted by you. You will also need a UV light as the only non-UV hint disappeared. If you downloaded this webpage to have it offline, then you should reload it on the day you decide to play the game. We really take improvements seriously so maybe there is a new version.</p>
@@ -269,7 +274,7 @@ You can download the newest cartridge here: <a href="http://www.wherigo.com/cart
 
 <a name="japanese_description"><h3>詳細</h3></a>
 <p>日本語版製作中。少々お待ちください。</p>
-<p><a href="http://coord.info/gc4ctgm">一章：プロジェクト・パンドラ</a>でミスター・ジョンソンに反して働くことを決めた後、ヴィールスの解毒剤が大量生産されず為、世界は、あなたも、結果の責任をとるべきである。それにもかかわらず、ミスター・ジョンソンがあなたに第二のチャンスをあげたがる。</p>
+<p><a href="http://coord.info/gc4ctgm">一章：プロジェクト・パンドラ</a>でミスター・ジョンソンに反して働くことを決めた後、ヴィールスの解毒剤が大量生産されず為、世界は、あなたも、<a href="http://youtu.be/le0_GkG7Hu8">結果</a>の責任をとるべきである。それにもかかわらず、ミスター・ジョンソンがあなたに第二のチャンスをあげたがる。</p>
 <p>このWherIGoは運動っぽいです。歩いて行く距離は５キロぐらいで、解決できるまでの時間は３時間ぐらいです。</p>
 
 <h3>ミニゲーム</h3>
