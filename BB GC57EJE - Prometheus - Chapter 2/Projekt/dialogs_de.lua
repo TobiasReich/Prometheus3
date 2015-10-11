@@ -175,10 +175,10 @@ task_13_find_fiona_description =
 "Ich muss Fiona finden. Am besten suche ich nach Hinweisen bei den möglichen Aufenthaltsorten."
 
 question_13_fionas_whereabouts =
-"Ich muss herausfinden, wo sie festgehalten wird.　Eines der alten Häuser neben einer Brücke vielleicht?"
+"Ich muss herausfinden, wo sie festgehalten wird. Fiona erwähnte Brücken und die Bahn..."
 
 input_13_fionas_whereabouts_wrong =
-"Entweder ist der Hinweis falsch oder etwas anderes stimmt noch nicht..."
+"Entweder ist der Hinweis falsch oder ich am falschen Ort..."
 
 -- 14) Richtige Zone gefunden
 text_14_call_from_johnson_right_zone =
