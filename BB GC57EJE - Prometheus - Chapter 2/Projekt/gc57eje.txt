@@ -1,3 +1,4 @@
+<p>Revision: 11 October 2015 - look for updates :-)</p>
 <h3>Kurzbeschreibung</h3>
 <p>Der zweite Teil einer Geschichte um Verschwörungen und die Bedrohung durch ein tödliches Virus</p>
 <hr/>
@@ -93,7 +94,12 @@ table, th, td {
     </thead>
     <tbody>
     <tr>
-        <td><a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Version 4.3</a></td>
+        <td><a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=7e9d1359-3a20-4a40-a503-1da808efb837">Version 4.4</a></td>
+        <td>Fiona startet woanders und läuft einen etwas anderen Weg, da sich bei der ursprünglichen Zone nun eine Baustelle befindet.</td>
+        <td>11. Oktober 2015</td>
+    </tr>
+    <tr>
+        <td>Version 4.3</a></td>
         <td>Memo wird in ZVariables gespeichert.</td>
         <td>27. März 2015</td>
     </tr>
@@ -390,5 +396,5 @@ Helden, Mitarbeiter: Augenhöhe, ein bisschen in die Büsche müsst ihr gehen, a
 Trauergäste: Bitte verhaltet Euch dem Ort angemessen. Gedenkt im Sitzen. Buschwerk muss gar nicht betreten werden.
 Ostereier: Da diese bisher kaum einer entdeckt hat, sei an dieser Stelle erwähnt, dass dieses Spiel drei zusätzliche Ostereier hat.
 Heroes, Employees: Eye level, enter the shrubs but no need to trample them down.
-Mourners: Please behave properly, paying some respect to the location. Mourn seated. No need to enter any shrubbery at all.
+Mourners: Please behave properly, paying appropriate respect to the location. Mourn seated. No need to enter any shrubbery at all.
 Eastereggs: So far almost nobody found them, so let us mention here, there are three eastereggs to be found in this game.
